@@ -1,0 +1,22 @@
+body{
+    background-color: #cc9df3;
+}
+h1{
+    background-color: whitesmoke;
+    color:#13815c;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    color: rgb(8, 8, 8);
+}
+img{
+border-width: 10px;
+border-color: #0f0470;
+border-radius: 20px;
+}
+a{
+    color: rgb(46, 100, 248);
+}
